@@ -2,8 +2,8 @@ from day3 import *
 
 
 class TestDay2:
-    def test(self):
+    def test1(self):
         pass
 
-    def test_2(self):
+    def test2(self):
         pass
